@@ -1,0 +1,6 @@
+C:\Users\Thomas\source\repos\CandidatureApp1\CandidatureApp1\bin\Debug\CandidatureApp1.exe.config
+C:\Users\Thomas\source\repos\CandidatureApp1\CandidatureApp1\bin\Debug\CandidatureApp1.exe
+C:\Users\Thomas\source\repos\CandidatureApp1\CandidatureApp1\bin\Debug\CandidatureApp1.pdb
+C:\Users\Thomas\source\repos\CandidatureApp1\CandidatureApp1\obj\Debug\CandidatureApp1.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\CandidatureApp1\CandidatureApp1\obj\Debug\CandidatureApp1.exe
+C:\Users\Thomas\source\repos\CandidatureApp1\CandidatureApp1\obj\Debug\CandidatureApp1.pdb
